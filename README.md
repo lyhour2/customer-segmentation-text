@@ -1,1 +1,1 @@
-# text-analysis-on-customer-feedback
+# customer-segmentation-text
