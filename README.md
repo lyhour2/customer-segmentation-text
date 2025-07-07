@@ -6,7 +6,7 @@
 - Support Vector Machine (SVM) achieved the best performance.
 
 ## Dataset 
-- We used data form the [Amazon e-commerce Musical Instruments Reviews dataset](https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews)
+- We used data from the [Amazon e-commerce Musical Instruments Reviews dataset](https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews)
 - It contains customer reviews of musical instruments sold on Amazon.
 - The dataset includes fields reviewer ID , User ID, Reviewer Name, Reviewer text, helpful, Summary(obtained from Reviewer text),Overall Rating on a scale 5, and Review time, which are useful for analyzing customer feedback and sentiment.
 
